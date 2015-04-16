@@ -5,7 +5,7 @@ Just install the latest .xpi fuile in your Komodo
 
 To build (assuming Komodo-IDE in ~/Komodo-IDE-9), run
 
-  ~/Komodo-IDE-9/lib/sdk/bin/koext build
+    ~/Komodo-IDE-9/lib/sdk/bin/koext build
   
 in project directory.
 
